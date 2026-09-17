@@ -1,0 +1,9 @@
+Day 4 : 17/09/2026
+
+[ ] Python modules & imports
+[ ] Built-in vs custom modules
+[ ] pip & packages
+[ ] Virtual environments (venv)
+[ ] requirements.txt
+[ ] Practice 5 problems
+[ ] Understand basic project structure

@@ -1,0 +1,10 @@
+Day 2 : 15/09/2026
+
+[ ] Python strings & string methods
+[ ] List indexing & slicing
+[ ] Dictionary operations
+[ ] Nested lists/dictionaries
+[ ] range()
+[ ] List comprehensions
+[ ] Practice 5 problems
+[ ] Build a small Student Data Processor

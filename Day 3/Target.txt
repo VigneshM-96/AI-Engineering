@@ -1,0 +1,8 @@
+Day 3 : 16/09/2026
+
+[ ] Python functions with parameters
+[ ] return vs print
+[ ] Local and global variables
+[ ] *args and **kwargs basics
+[ ] Practice 5 problems
+[ ] Build a reusable Student Statistics Module

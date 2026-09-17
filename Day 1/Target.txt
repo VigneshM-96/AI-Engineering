@@ -1,0 +1,10 @@
+Day 1 : 14/09/2026
+
+[ ] Python variables & data types
+[ ] Lists, tuples, sets, dictionaries
+[ ] if / elif / else
+[ ] for / while
+[ ] Functions
+[ ] File handling
+[ ] Exception handling
+[ ] Solve 3 Python problems
