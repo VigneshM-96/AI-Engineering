@@ -1,0 +1,9 @@
+#Finding Palindrome
+
+word = "Malayalam"
+word = word.lower()
+
+if word[::-1] == word:
+  print("Palindrome")
+else:
+  print("Not Palindrome")
