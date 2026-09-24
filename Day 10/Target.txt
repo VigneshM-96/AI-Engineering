@@ -1,0 +1,10 @@
+Date : 22/09/2026
+
+[ ] NumPy matrix operations
+[ ] Matrix addition & multiplication
+[ ] Transpose: .T
+[ ] Dot product
+[ ] np.matmul()
+[ ] Understand vector vs matrix
+[ ] Practice 5 problems
+[ ] Calculate basic lead-score statistics
